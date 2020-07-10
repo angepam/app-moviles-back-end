@@ -114,3 +114,4 @@ public class ControladorPerfil {
 //las arquitecturas estilo Rest , y se denomina CONSTRUCCION DE API´S
 //API = Application Programming Interface.(la interface en este caso es la
 //union entre el cliente(android) y servidor(java)
+//Vamos a empezar a trabajar en la nube

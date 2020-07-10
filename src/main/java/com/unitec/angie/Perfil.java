@@ -13,7 +13,7 @@ import org.springframework.data.annotation.Id;
 public class Perfil {
     
     @Id
-    String id;
+    private String id;
     
     private String nombre;
     private String paterno;
